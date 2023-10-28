@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "tiro";
+  src: url("TiroBangla-Regular.ttf");
+}
+body{
+  font-family: "tiro";
+}
